@@ -1,7 +1,5 @@
 # SFYL (Style for your life)
-for the first project
 ![Image](https://user-images.githubusercontent.com/145466609/268990072-ed6e081b-162d-46d4-8cae-e98a9e100039.jpg)
-SFYL
 
 This application will help you find your own style and give advice for your image
 # How virtual stylist works:
