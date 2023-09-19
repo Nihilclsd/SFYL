@@ -21,4 +21,5 @@ This application will help you find your own style and give advice for your imag
 - give and receive advice from other users
 - pluck clothes from a catalog
 
-The application will be relevant both for stylists and for ordinary users. A virtual stylist gives you the opportunity to express yourself, help yourself or others.
+The app "STYF" consists of
+artificial intelligence "Virtual Stylist" and combines a social network, the task of the stylist is to help and give advice to the user, who can similarly express himself, consult with other users, create his own images and give advice to others on his own blog. 
